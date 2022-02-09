@@ -1,5 +1,5 @@
 # Gulp Setting
-**さようなら、gulp。gulpの時代は終わった。**
+**さようなら、gulp。gulpの時代は終わった。もうお前は動かない。**
 
 ```bash
 $ npm init -y
