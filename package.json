@@ -1,0 +1,34 @@
+{
+  "name": "Goodby gulp, Hello webpack.",
+  "version": "1.0.0",
+  "description": "Goodby gulp, Hello webpack.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ansi-colors": "^4.1.1",
+    "browser-sync": "^2.27.7",
+    "fancy-log": "^2.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-changed": "^4.0.3",
+    "gulp-csslint": "^1.0.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-htmllint": "^0.0.19",
+    "gulp-image": "^6.3.1",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-slim": "^0.3.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify-es": "^3.0.0",
+    "webpack": "^5.68.0",
+    "webpack-stream": "^7.0.0"
+  }
+}
